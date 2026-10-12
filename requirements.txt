@@ -1,0 +1,25 @@
+# Requirements untuk Heart Disease Prediction & Streamlit Deployment
+
+# Data Manipulation & Machine Learning
+numpy>=2.0.0
+pandas>=2.2.0
+scikit-learn>=1.6.0
+joblib>=1.4.0
+
+# Deployment Framework & Visualisasi
+streamlit>=1.40.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+plotly>=6.0.0
+
+# Image & Networking
+pillow>=10.4.0
+requests>=2.31.0
+
+# Explainable AI & GenAI
+shap>=0.46.0
+python-dotenv>=1.0.0
+
+# MLOps & Testing
+mlflow>=2.15.0
+pytest>=8.0.0
